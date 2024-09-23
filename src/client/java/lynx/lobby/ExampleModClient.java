@@ -1,4 +1,4 @@
-package com.example;
+package lynx.lobby;
 
 import net.fabricmc.api.ClientModInitializer;
 
